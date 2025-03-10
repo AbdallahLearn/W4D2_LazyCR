@@ -1,0 +1,32 @@
+# Ignore Gradle files
+.gradle/
+build/
+local.properties
+
+# Ignore Android Studio specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore log files
+*.log
+
+# Ignore compiled Java and Kotlin files
+*.class
+*.kt~
+
+# Ignore Android specific generated files
+captures/
+output/
+
+# Ignore temporary files created by the system
+.DS_Store
+Thumbs.db
+
+# Ignore generated APKs
+*.apk
+*.ap_
+
+# Ignore the IDE configuration files
+*.swp
